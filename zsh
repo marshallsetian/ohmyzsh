@@ -1,4 +1,4 @@
-berikut adalah paduan cara menginstall auto koreksi dan heg,legt nya di terminal linux anda
+berikut adalah paduan cara menginstall auto koreksi dan highlight nya di terminal linux anda
 
 harap di perhatikan jika kali ini kita akan menginstall zsh, pengganti bash bawaan terminal linux
 untuk kali-linux tidak perlu install karna memang dari bawaan sudah di install ZSH nya
