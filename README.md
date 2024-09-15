@@ -1,10 +1,10 @@
 <h1>berikut adalah paduan cara menginstall auto koreksi dan highlight nya di terminal linux anda<h1></h1>
-<a href=""><img src="https://github.com/marshallsetian/ohmyzsh/blob/main/logo.png">
-harap di perhatikan jika kali ini kita akan menginstall zsh, pengganti bash bawaan terminal linux
-untuk kali-linux tidak perlu install karna memang dari bawaan sudah di install ZSH nya
+<a href=""><img src="https://github.com/marshallsetian/ohmyzsh/blob/main/logo.png"><a>
+<br>harap di perhatikan jika kali ini kita akan menginstall zsh,<br>pengganti bash bawaan terminal linux<br>
+untuk kali-linux tidak perlu install karna memang dari bawaan sudah di install ZSH nya<br>
 
 
-cara ini berlaku di terminal linux,wsl2 windows,termux android
+cara ini berlaku di terminal linux,wsl2 windows,termux android<br>
 untuk termux android hanya saja sedikit berbeda perintah panggilannya
 
 * <b>langkah pertama ketikkan perintah :<b>
