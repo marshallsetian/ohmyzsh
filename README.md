@@ -1,5 +1,5 @@
 <h1>berikut adalah paduan cara menginstall auto koreksi dan highlight nya di terminal linux anda<h1></h1>
-<a href=""><img src="https://github.com/marshallsetian/ohmyzsh/blob/main/logo.png"><a>
+<a href=" width="300" height="200">"><img src="https://github.com/marshallsetian/ohmyzsh/blob/main/logo.png"><a>
 <br>harap di perhatikan jika kali ini kita akan menginstall zsh,<br>pengganti bash bawaan terminal linux<br>
 untuk kali-linux tidak perlu install karna memang dari bawaan sudah di install ZSH nya<br>
 
