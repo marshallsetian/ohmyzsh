@@ -1,5 +1,5 @@
 <h1>berikut adalah paduan cara menginstall auto koreksi dan hightlight nya di terminal linux anda<h1></h1>
-
+<a href="#"><img src="https://github.com/marshallsetian/ohmyzsh/blob/main/logo.png?raw=true">
 harap di perhatikan jika kali ini kita akan menginstall zsh, pengganti bash bawaan terminal linux
 untuk kali-linux tidak perlu install karna memang dari bawaan sudah di install ZSH nya
 
